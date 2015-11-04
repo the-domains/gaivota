@@ -1,0 +1,23 @@
+name: Gaivota
+favicon: null
+layout_spectrum: 0.9217225480824709
+typography_spectrum: 0.7610411094501615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1496315416879952
+  lightness: 0.3133369761053473
+  saturation: 0.6030490414705127
+  rhythmicContrast: 0.9848667334299535
+purpose: []
